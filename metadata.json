@@ -1,0 +1,6 @@
+{
+  "name": "BeatForge Studio",
+  "description": "Professional Android Digital Audio Workstation (DAW) and Beat Maker Studio featuring multi-track arrangement, drum sequencer, synth piano roll, real-time DSP effects, audio recording, and high-fidelity export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
